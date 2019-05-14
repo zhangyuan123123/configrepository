@@ -1,0 +1,3 @@
+mybatis:
+  mapperLocations: classpath*:mybatis/mapper-*.xml
+  typeAliasesPackage: org.zys.user.model
