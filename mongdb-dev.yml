@@ -1,0 +1,4 @@
+mongdb:
+  mongo.host: localhost
+  mongo.port: 27017
+  mongo.dbname: 1810B
